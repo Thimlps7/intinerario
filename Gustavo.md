@@ -2,7 +2,7 @@ Receita de bolo Passo 7
 
 Pull Requests, revisão final e merge
 
-Rafael abre seu próprio PR e coordena a abertura dos PRs de todos. Também adiciona o rodapé de autoria.
+Gustavo Lima abre seu próprio PR e coordena a abertura dos PRs de todos. Também adiciona o rodapé de autoria.
 
 receita.md — trecho final a adicionar
 ## Autoria e colaboração
